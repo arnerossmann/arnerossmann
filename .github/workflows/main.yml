@@ -22,7 +22,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: actions/is-my-site-up@v1.1 
+      - uses: Leocardoso94/is-my-site-up@v1.2
         with: 
           site: 'capgemini.com'
       
